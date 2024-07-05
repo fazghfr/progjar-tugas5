@@ -1,0 +1,8 @@
+Running 10s test @ http://172.16.16.101:44444
+  150 threads and 1000 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     0.00us    0.00us   0.00us    -nan%
+    Req/Sec     0.00      0.00     0.00      -nan%
+  0 requests in 10.09s, 0.00B read
+Requests/sec:      0.00
+Transfer/sec:       0.00B
